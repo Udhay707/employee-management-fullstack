@@ -1,0 +1,70 @@
+.app{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.table-props{
+  width: 70%;
+    align-content: center;
+    margin: 5% auto;
+}
+
+h2{
+  margin: 1% auto;
+  text-align: center;
+}
+
+.header h1{
+  font-size: 33px;
+  margin-top: 0px;
+  padding: 10px;
+}
+.header{
+  background: #605959;
+  height: 25%;
+}
+.header h1{
+  color: white;
+}
+h1:hover{
+  color: rgb(221, 117, 117);
+  text-decoration: none;
+}
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  margin-top: auto;
+}
+
+.btm{
+  margin-left: 15%;
+  margin-right:auto;
+  background-color: #777777;
+  border: none;
+  margin-bottom: 1%;
+}
+form{
+  margin-left: 30%;
+  margin-right:auto;
+  width: 30%;
+  margin-top: 5%;
+}
+.btn{
+  margin-bottom: 1%;
+}
+
+.alert{
+  width: 30%;
+  /* text-align: center; */
+  margin-top: 5%;
+  margin-left: 30%;
+}
+tbody{
+  text-align: center;
+}
+
+.table-btn{
+  margin: auto 2%;
+}
